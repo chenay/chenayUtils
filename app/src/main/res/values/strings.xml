@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">ChenayUtils</string>
+
+    <string name="str_update_apk_msg1">当前版本为:%1$s已是最新版本</string>
+    <string name="str_update_apk_msg2">已是最新版本</string>
+    <string name="str_update_apk_msg">当前版本:    V%1$s \n\n发现新版本:  V%2$s \n\n是否更新?</string>
+    <string name="str_update_apk_1">软件更新</string>
+    <string name="str_update">更新</string>
+    <string name="str_downing">正在下载</string>
+    <string name="str_update_not_now">暂不更新</string>
+    <string name="str_dowm_success">下载成功!</string>
+
+
+    <string name="str_lang_sys" translatable="false">跟随系统</string>
+    <string name="str_lang_simp_chinese" translatable="false">简体中文</string>
+    <string name="str_lang_vietnamese" translatable="false">Tiếng việt</string>
+    <string name="str_update_apk_msg3">提示:发现新版本请及时更新!</string>
+</resources>

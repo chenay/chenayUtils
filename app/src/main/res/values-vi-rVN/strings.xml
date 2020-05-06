@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">ChenayUtils</string>
+    <string name="str_update_apk_msg1">Phiên bản hiện tại:%1$s được cập nhật.</string>
+    <string name="str_update_apk_msg2">Đây là phiên bản mới nhất.</string>
+    <string name="str_update_apk_msg">Phiên bản hiện tại:    V%1$s \n\nPhiên bản mới:  V%2$s \n\nCập nhật phiên bản?</string>
+    <string name="str_update_apk_msg3">Mẹo: Vui lòng cập nhật cho phiên bản m ới!</string>
+    <string name="str_update_apk_1">Cập nhật phần mềm</string>
+    <string name="str_update">Cập nhật</string>
+    <string name="str_downing">Đang tải xuống</string>
+    <string name="str_update_not_now">Chưa cập nhật</string>
+    <string name="str_dowm_success">Tải thành công!</string>
+</resources>
